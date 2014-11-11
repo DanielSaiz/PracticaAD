@@ -1,0 +1,16 @@
+<linked-hash-map>
+  <entry>
+    <int>0</int>
+    <datos.Compra>
+      <cantidad>1</cantidad>
+      <concepto>Manzanas</concepto>
+    </datos.Compra>
+  </entry>
+  <entry>
+    <int>1</int>
+    <datos.Compra>
+      <cantidad>3</cantidad>
+      <concepto>Concepto</concepto>
+    </datos.Compra>
+  </entry>
+</linked-hash-map>

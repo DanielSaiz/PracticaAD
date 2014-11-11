@@ -1,0 +1,23 @@
+<linked-hash-map>
+  <entry>
+    <int>1</int>
+    <accesoadatos2.datos.Persona>
+      <id>1</id>
+      <nombre>Alvaro</nombre>
+    </accesoadatos2.datos.Persona>
+  </entry>
+  <entry>
+    <int>4</int>
+    <accesoadatos2.datos.Persona>
+      <id>4</id>
+      <nombre>Daniel</nombre>
+    </accesoadatos2.datos.Persona>
+  </entry>
+  <entry>
+    <int>5</int>
+    <accesoadatos2.datos.Persona>
+      <id>5</id>
+      <nombre>tgsdf</nombre>
+    </accesoadatos2.datos.Persona>
+  </entry>
+</linked-hash-map>
